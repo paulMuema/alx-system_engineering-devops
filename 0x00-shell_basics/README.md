@@ -7,3 +7,4 @@ ls -an  - displays current directory with user and group IDs displayed numerical
 mkdir tmp/my_first_directory - creates a directory named my_first_directory in /tmp/ directory
 mv /tmp/betty /tmp/my_first_directory
 rm /tmp/betty/my_first_directory
+rm -r /tmp/my_first_directory
