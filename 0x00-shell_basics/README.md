@@ -13,4 +13,4 @@ ls -al . .. /boot - Lists all files in working directory, parent of working dire
 file /tmp/iamafile - Prints tupe of file named iamafile
 ln -s /bin/ls ls -  Creates a symbolic link to /bin/ls named __ls__
 cp -rua *.html ../ - copies all HTML files from current working directory to parent of working directory
-
+mv [[:upper:]]* /tmp/u - moves files beginning with uppercase letter to directory /tmp/u
