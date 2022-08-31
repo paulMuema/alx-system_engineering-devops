@@ -8,3 +8,4 @@ mkdir tmp/my_first_directory - creates a directory named my_first_directory in /
 mv /tmp/betty /tmp/my_first_directory
 rm /tmp/betty/my_first_directory
 rm -r /tmp/my_first_directory
+cd -  - changes working directory to previous one
