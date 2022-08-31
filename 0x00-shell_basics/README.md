@@ -9,3 +9,4 @@ mv /tmp/betty /tmp/my_first_directory
 rm /tmp/betty/my_first_directory
 rm -r /tmp/my_first_directory
 cd -  - changes working directory to previous one
+ls -al . .. /boot - Lists all files in working directory, parent of working directory and /boot directory
