@@ -16,4 +16,4 @@ cp -rua *.html ../ - copies all HTML files from current working directory to par
 mv [[:upper:]]* /tmp/u - moves files beginning with uppercase letter to directory /tmp/u
 rm *~ - deletes all files in current working directory that end with character ~
 mkdir -p welcome/to/school - creates directories welcome/, welcome/to and welcome/to/school
-
+ls -map | sort -d
