@@ -1,2 +1,1 @@
-The repository contains files that contains scripts which carry out different functions in
-Shell such as listing, showing the path name etc
+The repository contains executable files that carry out manipulation commands such as copying etc.

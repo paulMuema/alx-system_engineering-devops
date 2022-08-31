@@ -17,4 +17,5 @@ mv [[:upper:]]* /tmp/u - moves files beginning with uppercase letter to director
 rm *~ - deletes all files in current working directory that end with character ~
 mkdir -p welcome/to/school - creates directories welcome/, welcome/to and welcome/to/school
 ls -map | sort -d - lists files and folders of current directory, separated by commas
-
+0 string SCHOOL School Data
+!:mime School               - creates a magic file school.mgc that can be used with command file to detect School data files 
