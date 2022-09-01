@@ -6,3 +6,5 @@ touch hello - creates an empty file hello
 chmod 744 hello - adds execute permissions to owner of file hello
 chmod 754 hello - adds execute permissions to owner and group and group owner and read permission to other users
 chmod 751 hello - adds execute permissions to owner, group owner and other users
+chmod ugo+x hello - adds execution permission to owner, group owner and others to the file hello
+
