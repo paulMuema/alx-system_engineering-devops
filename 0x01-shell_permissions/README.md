@@ -15,4 +15,5 @@ mkdir -m 751 my_dir - creates a directory my_dir with permissions 751.
 chgrp school hello - changes group owner to school for file hello.
 telnet towel.blinkenlights.nl - Plays StarWars IV episode in terminal.
 chown --from=guillaume betty hello - changes owner of file hello to betty only if owner is user guillaume.
-
+chown vincent:staff * - changes owner to vincent and group owner to staff for all files and directories in working directory.
+chown -h vincent:staff _hello - changes owner to vincent and group owner to staff for the symbolic link _hello.
