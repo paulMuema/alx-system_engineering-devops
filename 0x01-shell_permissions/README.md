@@ -9,4 +9,5 @@ chmod 751 hello - adds execute permissions to owner, group owner and other users
 chmod ugo+x hello - adds execution permission to owner, group owner and others to the file hello.
 chmod 007 hello - gives no permissions to owner and group owner but gives all permissions to the other users.
 chmod 753 hello - gives all permissions to owner, read and execute permissions to group owner and write and execute permissions to other users.
+chmod --reference=olleh Hello - sets mode of file hello to be the same as olleh's mode
 
