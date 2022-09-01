@@ -10,4 +10,5 @@ chmod ugo+x hello - adds execution permission to owner, group owner and others t
 chmod 007 hello - gives no permissions to owner and group owner but gives all permissions to the other users.
 chmod 753 hello - gives all permissions to owner, read and execute permissions to group owner and write and execute permissions to other users.
 chmod --reference=olleh Hello - sets mode of file hello to be the same as olleh's mode
-
+chmod a+X * - creates a script that adds execute permission to all sub directories of current directory for owner, group owner and all other users. Regular files are not changed.
+mkdir -m 751 my_dir - creates a directory my_dir with permissions 751
