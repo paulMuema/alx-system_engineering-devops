@@ -13,3 +13,4 @@ chmod --reference=olleh Hello - sets mode of file hello to be the same as olleh'
 chmod a+X * - creates a script that adds execute permission to all sub directories of current directory for owner, group owner and all other users. Regular files are not changed.
 mkdir -m 751 my_dir - creates a directory my_dir with permissions 751
 chgrp school hello - changes group owner to school for file hello
+telnet towel.blinkenlights.nl - Plays StarWars IV episode in terminal
