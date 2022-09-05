@@ -7,3 +7,5 @@ cat /etc/passwd - displays content of /etc/passwd file
 6-third_line - displays third line of file iacta
 
 8-cwd_state - writes results of command ls -la to a file ls_cwd_content
+9-duplicate_last_line - duplicates last line of file iacta
+
