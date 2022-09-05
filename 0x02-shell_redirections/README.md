@@ -19,5 +19,5 @@ cat /etc/passwd - displays content of /etc/passwd file
 18-letteronly - displays all lines of the file /etc/ssh/sshd_config
 19-AZ - Replace all characters A and c from input to Z and e respectively
 20-hiago - Removes all letters c and C from input
-
+21-reverse - reverses the input
 
