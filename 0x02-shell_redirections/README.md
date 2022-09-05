@@ -13,3 +13,4 @@ cat /etc/passwd - displays content of /etc/passwd file
 12-newest_files - creates script that displays 10 newest files in current directory
 13-unique - takes a list of owrds as input and prints only words that appear exactly once.
 14-findthatword - displays list containing pattern "root" from file /etc/passwd
+15-countthatword - displays number of lines that contain pattern "bin" in file /etc/passwd
