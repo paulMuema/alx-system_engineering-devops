@@ -5,3 +5,5 @@ cat /etc/passwd - displays content of /etc/passwd file
 4-lastlines - displays last 10 lines of /etc/passwd
 5-firstlines - displays first 10 lines 0f /etc/passwd
 6-third_line - displays third line of file iacta
+
+8-cwd_state - writes results of command ls -la to a file ls_cwd_content
