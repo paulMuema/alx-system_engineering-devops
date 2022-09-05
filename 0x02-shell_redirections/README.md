@@ -15,4 +15,6 @@ cat /etc/passwd - displays content of /etc/passwd file
 14-findthatword - displays list containing pattern "root" from file /etc/passwd
 15-countthatword - displays number of lines that contain pattern "bin" in file /etc/passwd
 16-whatsnext - displays lines containing pattern "root" and 3 lines after them in the file
-17 - displays all lines in the file /etc/passwd that do not contain pattern "bin"
+17-hidethisword - displays all lines in the file /etc/passwd that do not contain pattern "bin"
+18-letteronly - displays all lines of the file /etc/ssh/sshd_config
+
