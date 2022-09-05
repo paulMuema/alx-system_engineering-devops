@@ -10,3 +10,4 @@ cat /etc/passwd - displays content of /etc/passwd file
 9-duplicate_last_line - duplicates last line of file iacta
 10-no_more_js - deletes all regular files with a .js extension
 11-directories - counts number of directories and sub-directories in current directory
+12-newest_files - creates script that displays 10 newest files in current directory
