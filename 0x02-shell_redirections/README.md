@@ -20,4 +20,5 @@ cat /etc/passwd - displays content of /etc/passwd file
 19-AZ - Replace all characters A and c from input to Z and e respectively
 20-hiago - Removes all letters c and C from input
 21-reverse - reverses the input
+22-users_and_homes - displays all users and home directories sorted by users based on /etc/passwd file
 
