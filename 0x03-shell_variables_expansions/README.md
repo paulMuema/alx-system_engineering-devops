@@ -6,3 +6,5 @@
 5-local_variables - lists all local and environmental variables, and functions.
 6-create_local_variable - creates a new local variable called "BEST" with value "School"
 7-create_global_variable - creates a new global variable called "BEST" with value "School"
+8-true_knowledge - prints result of addition of 128 with value stored in the environmental variable TRUEKNOWLEDGE
+
