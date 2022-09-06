@@ -2,3 +2,5 @@
 1-hello_you - prints hello user, where user is current Linux user
 2-path - adds /action to the PATH.
 3-paths - counts number of directories in the PATH
+4-global_variables - lists environmanetal variables
+
