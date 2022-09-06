@@ -11,3 +11,4 @@
 10-love_exponent_breath - displays result of BREATH to the power LOVE
 11-binary_to_decimal - converts a number from base 2 to base 10
 12-combinations - prints all possible combinations of two letters excpet oo
+13-print_float - prints a number with two decimal places followed by a new line
