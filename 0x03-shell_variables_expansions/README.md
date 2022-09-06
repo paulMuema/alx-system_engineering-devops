@@ -4,4 +4,5 @@
 3-paths - counts number of directories in the PATH
 4-global_variables - lists environmanetal variables
 5-local_variables - lists all local and environmental variables, and functions.
+6-create_local_variable - creates a new local variable called "BEST" with value "SCHOOL"
 
