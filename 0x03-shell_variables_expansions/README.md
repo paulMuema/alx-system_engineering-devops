@@ -15,4 +15,4 @@
 100-decimal_to_hexadecimal - converts number from base 10 to base 16
 101-rot13 - encodes and decodes text using the rot13 encryption
 102-odd - script that prints every other line from the input starting with the first line
-
+103-water_and_stir - adds two numbers stored in environment variables WATER and STIR and prints the result
