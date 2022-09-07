@@ -23,5 +23,5 @@ cat /etc/passwd - displays content of /etc/passwd file
 22-users_and_homes - displays all users and home directories sorted by users based on /etc/passwd fil
 100-empty_casks - finds all empty files and directories in current directory and sub-directories
 101-gifs - lists all files with a .gif extension in the current directory and all its sub-directories
-
+102-acrostic - decodes acrostics that use first letter of each line
 
